@@ -5,9 +5,13 @@ About Me
 🛠️ Languages & Tools
 
 Programming Languages: Python, C++, Bash, C, C#, Java
+
 Cybersecurity Focus: Threat management, encryption, network security
+
 Tools & Technologies: React, Flutter, Angular, local server setups
+
 Networking: Home & small business network configuration, cloud environment management
+
 Certifications in Progress: CCNA, with a focus on network security and encryption techniques
 
 🔒 Current Projects
@@ -18,14 +22,19 @@ A personal encryption software I've developed to maintain the confidentiality an
 🚀 Interests & Goals
 
 Cyber Threat Hunting: Deep diving into malicious patterns and anomaly detection.
+
 Encryption Algorithms: Exploring advanced cryptographic techniques to secure data and systems.
+
 Network Security: Continually learning best practices for configuring secure networks and managing threats.
+
 Cloud Security: Protecting infrastructure in cloud environments while automating processes for enhanced defense.
 
 📫 Contact
 
 Feel free to connect with me for collaboration, questions, or just to have a general conversation about cybersecurity:
+
 Email: johnbellamydev@gmail.com
+
 LinkedIn: www.linkedin.com/in/john-bellamy-ii-4337a8242
 
 ⚡ Fun Fact
