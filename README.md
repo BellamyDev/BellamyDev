@@ -20,7 +20,7 @@ Cloud Security: Protecting infrastructure in cloud environments while automating
 
 📫 Contact
 Feel free to connect with me for collaboration, questions, or just to have a general conversation about cybersecurity:
-Email: johnbelldev@gmail.com
+Email: johnbellamydev@gmail.com
 LinkedIn: www.linkedin.com/in/john-bellamy-ii-4337a8242
 
 ⚡ Fun Fact
