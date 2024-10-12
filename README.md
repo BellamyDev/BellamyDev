@@ -35,7 +35,7 @@ Feel free to connect with me for collaboration, questions, or just to have a gen
 
 Email: johnbellamydev@gmail.com
 
-LinkedIn: www.linkedin.com/in/john-bellamy-ii-4337a8242
+LinkedIn: https://www.linkedin.com/in/johnbellamyii/
 
 ⚡ Fun Fact
 
