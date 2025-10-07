@@ -12,7 +12,7 @@ Tools & Technologies: React, Flutter, Angular, local server setups
 
 Networking: Home & small business network configuration, cloud environment management
 
-Certifications in Progress: CCNA, with a focus on network security and encryption techniques
+Certifications in Progress: SEC+, with a focus on network security and encryption techniques
 
 🔒 Current Projects
 
